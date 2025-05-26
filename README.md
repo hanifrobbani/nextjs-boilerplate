@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<a id="readme-top"></a>
 
-## Getting Started
 
-First, run the development server:
+<div align="center">
+  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h3 align="center">Nextjs Boilerplate</h3>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  <p align="center">
+    Boilerplate and Starter template for Next.js app with App Router, Tailwind CSS, Shadcn and TypeScript
+    <br />
+    <a href="https://github.com/hanifrobbani/nextjs-boilerplate"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/hanifrobbani/nextjs-boilerplate/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    &middot;
+    <a href="https://github.com/hanifrobbani/nextjs-boilerplate/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Built With
 
-## Learn More
+[![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)</br>
+[![TypeScript Logo](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)</br>
+[![Tailwind CSS Logo](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)</br>
+[![Shadcn/ui Logo](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
 
-To learn more about Next.js, take a look at the following resources:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Installation
 
-## Deploy on Vercel
+1. Clone the repo
+   ```sh
+   git clone https://github.com/hanifrobbani/nextjs-boilerplate.git
+   ```
+2. Install Dependencies
+   ```sh
+   npm install
+   bun install #recomended using bun
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
