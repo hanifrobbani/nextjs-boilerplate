@@ -26,8 +26,6 @@
 [![Tailwind CSS Logo](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)</br>
 [![Shadcn/ui Logo](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ui.shadcn.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ### Installation
 
@@ -39,6 +37,11 @@
    ```sh
    npm install
    bun install #recomended using bun
+   ```
+2. Start Local Development
+   ```sh
+   npm run dev
+   bun run dev
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
